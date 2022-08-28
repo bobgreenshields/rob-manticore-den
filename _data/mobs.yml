@@ -1,0 +1,10 @@
+gelatinous-cube:
+  pp: "8"
+  loot: ""
+  desc: "Gelatinous cube"
+
+kinziru:
+  pp: "11"
+  loot: ""
+  desc: "Manticore"
+
